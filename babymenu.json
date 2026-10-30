@@ -5,7 +5,7 @@
     "ios": 6
   },
   "storeUrl": {
-    "android": "market://details?id=com.beebymenu.app",
-    "ios": "itms-apps://apps.apple.com/app/id6824734839"
+    "android": "https://play.google.com/store/apps/details?id=com.beebymenu.app",
+    "ios": "https://apps.apple.com/us/app/baby-menu/id6824734839"
   }
 }
