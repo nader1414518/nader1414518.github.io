@@ -1,0 +1,11 @@
+{
+  "comment": "أقل نسخة مسموح بيها. ارفعي الرقم مع كل إصدار إجباري — التطبيق مش هيفتح للي أقل من كده",
+  "minVersionCode": {
+    "android": 8,
+    "ios": 6
+  },
+  "storeUrl": {
+    "android": "market://details?id=com.beebymenu.app",
+    "ios": "itms-apps://apps.apple.com/app/id_YOUR_APP_ID"
+  }
+}
