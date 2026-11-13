@@ -1,12 +1,12 @@
 {
   "comment": "تحديث OTA لبيبي منيو — بيتعمل بـ scripts/ota-publish.sh",
-  "version": 46,
-  "url": "https://nader1414518.github.io/babymenu-ota/46.zip",
-  "checksum": "fb2fe0b43007557b73f3c1c080392638cca29de5bc84a63db87e89d592b2e7af",
+  "version": 47,
+  "url": "https://nader1414518.github.io/babymenu-ota/47.zip",
+  "checksum": "57167ad90713f6538f3d391925efe73546c5155a4ae2d60dbad9f0b8ce8f0385",
   "minNative": {
     "android": 17,
     "ios": 17
   },
   "immediate": true,
-  "published": "2026-11-13T09:07:53+00:00"
+  "published": "2026-11-13T09:13:41+00:00"
 }
